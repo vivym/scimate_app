@@ -1,0 +1,7 @@
+{
+    "@@locale": "zh",
+    "counterAppBarTitle": "计数器",
+    "@counterAppBarTitle": {
+        "description": "计数器页面AppBar的标题"
+    }
+}

@@ -80,17 +80,17 @@ android {
         production {
             dimension "default"
             applicationIdSuffix ""
-            manifestPlaceholders = [appName: "Scimate App"]
+            manifestPlaceholders = [appName: "SciMate App"]
         }
         staging {
             dimension "default"
             applicationIdSuffix ".stg"
-            manifestPlaceholders = [appName: "[STG] Scimate App"]
+            manifestPlaceholders = [appName: "[STG] SciMate App"]
         }
         development {
             dimension "default"
             applicationIdSuffix ".dev"
-            manifestPlaceholders = [appName: "[DEV] Scimate App"]
+            manifestPlaceholders = [appName: "[DEV] SciMate App"]
         }
     }
 

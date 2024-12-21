@@ -95,7 +95,7 @@ BEGIN
             VALUE "InternalName", "scimate_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 ai.scimate.scimate-app. All rights reserved." "\0"
             VALUE "OriginalFilename", "scimate_app.exe" "\0"
-            VALUE "ProductName", "Scimate App" "\0"
+            VALUE "ProductName", "SciMate App" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

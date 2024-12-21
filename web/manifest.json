@@ -1,6 +1,6 @@
 {
-    "name": "Scimate App",
-    "short_name": "Scimate App",
+    "name": "SciMate App",
+    "short_name": "SciMate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
